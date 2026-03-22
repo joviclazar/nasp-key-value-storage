@@ -25,6 +25,6 @@ go.work.sum
 .env
 
 # wal files
-wal/wals/*.log
-wal/offset.bin
+/wal/wals/wal*.log
+/wal/offset.bin
 
